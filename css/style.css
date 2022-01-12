@@ -1,0 +1,35 @@
+
+
+body{background-color: #eaf2ea;
+text-align: center;
+margin:0;
+font-family: "verdana", serif;
+}
+hr{background-color: #eaf2ea;
+height: 0px;
+width: 10%;
+border-style: none;
+border-top-style: dotted;
+border-width: 10px;
+border-color: #667a44;
+}
+
+h1{color: #161D6F
+}
+table{width: 70%;
+  margin-left:15%;
+    margin-right:15%;
+  margin-top: 0px}
+
+div{background-image:url(https://www.westend61.de/images/0000769867pw/netherlands-amsterdam-view-to-port-WDF03873.jpg);
+}
+div{background-repeat: no-repeat;
+  margin-left: 20%;
+    margin-right:20%;
+
+}
+
+h1{color: #ff8c00;
+  background-color:  #f1f1f1;
+
+}
